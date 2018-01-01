@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Feature1.cs" />
+    <Compile Include="Feature4.cs" />
     <Compile Include="nulable.cs" />
     <Compile Include="nulable2.cs" />
     <Compile Include="Program.cs" />
