@@ -19,9 +19,11 @@ namespace ConsoleApp1
                 Console.WriteLine("x value is not null.");
             if (x == null)
                 Console.WriteLine("value of x is: null");
-            // check if value of x is null then assign a default value to y 
+            //?? operator features:
+            // check if value of x is null then assign -1 to y 
             //otherwise assign value of x to variabl y.
             int y = x ?? -1;
+
         }
     }
 }
