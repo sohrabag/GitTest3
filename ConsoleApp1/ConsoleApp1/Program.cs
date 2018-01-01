@@ -17,8 +17,12 @@ namespace ConsoleApp1
 
 
             //Code to call Feature 2
-            
+
             //Code to call Feature 3
+
+            //nulable class object
+            nulable1 obj = new nulable1();
+            obj.nullableExamp();
         }
     }
 }
